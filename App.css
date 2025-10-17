@@ -1,0 +1,17 @@
+#d1{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+    margin-top:10px;
+    background-color: aqua;
+    border: solid black;
+ }
+
+ .a{
+  background-color: black;
+  text-decoration: none;
+ }
+  
+ a:hover{
+      cursor: pointer;
+ }

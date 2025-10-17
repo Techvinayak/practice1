@@ -1,0 +1,8 @@
+.error {
+    visibility: hidden;
+    color: red;
+}
+
+.error.visible {
+    visibility: visible;
+}

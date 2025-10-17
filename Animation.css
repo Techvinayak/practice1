@@ -1,0 +1,11 @@
+#d1,#d2{
+    height:50px;
+    width:50px;
+    color: black;
+    background-color:aqua;
+    border: solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+}
